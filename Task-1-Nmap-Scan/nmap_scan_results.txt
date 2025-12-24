@@ -1,0 +1,5 @@
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+445/tcp  open  microsoft-ds?
+7070/tcp open  ssl/realserver?
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
