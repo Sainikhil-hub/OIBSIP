@@ -28,7 +28,7 @@ The report explains:
 ---
 
 ### 📂 File Included
-- `network_security_threats_report` – Detailed research report on common network security threats
+- `network_security_threats_report.md` – Detailed research report on common network security threats
 
 ---
 
