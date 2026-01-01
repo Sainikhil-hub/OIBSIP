@@ -1,8 +1,7 @@
 Research Report on Social Engineering Attacks
 1. Introduction
 
-Social engineering attacks are among the most dangerous cybersecurity threats because they exploit human psychology rather than technical vulnerabilities. Instead of breaking into systems using malware or brute force, attackers manipulate individuals into revealing sensitive information, granting unauthorized access, or performing harmful actions.
-With the rapid growth of digital communication, social engineering has become easier, cheaper, and more effective for cybercriminals. Organizations across sectors—finance, healthcare, education, and government—have suffered major losses due to these attacks. This report explores the types of social engineering attacks, real-world case studies, their impact on organizations, and effective prevention strategies.
+Social engineering attacks are among the most dangerous cybersecurity threats because they exploit human psychology rather than technical vulnerabilities. Instead of breaking into systems using malware or brute force, attackers manipulate individuals into revealing sensitive information, granting unauthorized access, or performing harmful actions.With the rapid growth of digital communication, social engineering has become easier, cheaper, and more effective for cybercriminals. Organizations across sectors—finance, healthcare, education, and government—have suffered major losses due to these attacks. This report explores the types of social engineering attacks, real-world case studies, their impact on organizations, and effective prevention strategies.
 
 2. Understanding Social Engineering Attacks
 2.1 Definition
