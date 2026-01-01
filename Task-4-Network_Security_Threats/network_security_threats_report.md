@@ -24,8 +24,6 @@ A **Denial of Service (DoS) attack** is an intentional attempt to interrupt the 
 
 When such an attack is executed using multiple compromised systems simultaneously, it is referred to as a **Distributed Denial of Service (DDoS) attack**.
 
----
-
 ### 2.2 Working Principle of DoS Attacks
 
 DoS attacks take advantage of the limited processing power and bandwidth of servers and networks.
@@ -36,16 +34,12 @@ DoS attacks take advantage of the limited processing power and bandwidth of serv
 - The target’s resources become overloaded  
 - Genuine user requests are delayed or rejected  
 
----
-
 ### 2.3 Common DoS Attack Techniques
 
 - **SYN Flood Attack** – Exploits the TCP connection setup process  
 - **UDP Flood Attack** – Overwhelms the target using UDP packets  
 - **ICMP Flood Attack** – Uses excessive ping requests  
 - **HTTP Flood Attack** – Targets web applications with massive HTTP requests  
-
----
 
 ### 2.4 Effects of DoS Attacks
 
@@ -55,13 +49,9 @@ DoS attacks take advantage of the limited processing power and bandwidth of serv
 - Damage to brand image and customer trust  
 - Disruption of critical infrastructure services  
 
----
-
 ### 2.5 Real-World Incident
 
 In 2016, a large-scale DDoS attack targeted a major DNS service provider, causing outages for several well-known websites. The attack was carried out using compromised Internet of Things (IoT) devices, highlighting the risks associated with unsecured smart devices.
-
----
 
 ### 2.6 Prevention and Control Measures
 
@@ -80,16 +70,12 @@ In 2016, a large-scale DDoS attack targeted a major DNS service provider, causin
 
 A **Man-in-the-Middle (MITM) attack** occurs when an attacker secretly intercepts communication between two parties. Both parties assume they are communicating directly, while the attacker monitors or modifies the transmitted data.
 
----
-
 ### 3.2 How MITM Attacks Operate
 
 - The attacker positions themselves between the sender and receiver  
 - Network traffic is intercepted without the knowledge of the users  
 - Sensitive information such as credentials or session tokens is captured  
 - The attacker may alter the data before forwarding it  
-
----
 
 ### 3.3 Common MITM Methods
 
@@ -99,8 +85,6 @@ A **Man-in-the-Middle (MITM) attack** occurs when an attacker secretly intercept
 - SSL stripping  
 - Session hijacking  
 
----
-
 ### 3.4 Consequences of MITM Attacks
 
 - Theft of usernames and passwords  
@@ -109,13 +93,9 @@ A **Man-in-the-Middle (MITM) attack** occurs when an attacker secretly intercept
 - Manipulation of transmitted information  
 - Unauthorized system access  
 
----
-
 ### 3.5 Practical Example
 
 Public Wi-Fi networks are frequent targets for MITM attacks. Attackers often create fake wireless networks in public places. Unsuspecting users connect to these networks, allowing attackers to intercept sensitive information.
-
----
 
 ### 3.6 Mitigation Techniques
 
@@ -134,8 +114,6 @@ Public Wi-Fi networks are frequent targets for MITM attacks. Attackers often cre
 
 **Spoofing** is a technique in which an attacker impersonates a legitimate entity by falsifying identity information. This allows attackers to deceive systems and users into trusting malicious traffic.
 
----
-
 ### 4.2 Types of Spoofing Attacks
 
 - IP address spoofing  
@@ -143,16 +121,12 @@ Public Wi-Fi networks are frequent targets for MITM attacks. Attackers often cre
 - DNS spoofing  
 - Email spoofing  
 
----
-
 ### 4.3 Mechanism of Spoofing Attacks
 
 - Attackers modify packet headers or identity fields  
 - The target system assumes the traffic is from a trusted source  
 - Security controls are bypassed  
 - Further attacks such as MITM or phishing may follow  
-
----
 
 ### 4.4 Impact of Spoofing
 
@@ -162,13 +136,9 @@ Public Wi-Fi networks are frequent targets for MITM attacks. Attackers often cre
 - Phishing and social engineering attacks  
 - Network performance degradation  
 
----
-
 ### 4.5 Real-World Scenario
 
 Email spoofing is commonly used in phishing attacks where cybercriminals impersonate banks or organizations to trick users into revealing confidential details such as passwords and one-time passwords (OTPs).
-
----
 
 ### 4.6 Prevention and Mitigation
 
